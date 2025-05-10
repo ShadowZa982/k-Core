@@ -1,0 +1,6 @@
+name: k-Core
+version: '1.0'
+main: org.kalistudio.kCore.KCore
+api-version: '1.18'
+load: STARTUP
+authors: [ Kali Studio ]
