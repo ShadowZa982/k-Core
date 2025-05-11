@@ -1,0 +1,3 @@
+quests:
+  reward: "100 Coins"  # Phần thưởng mặc định cho nhiệm vụ
+  epic_reward: "Epic Sword"  # Phần thưởng đặc biệt

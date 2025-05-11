@@ -1,0 +1,23 @@
+#|      Placeholder         |             Ý nghĩa               |
+#| ------------------------ | -------------------------------   |
+#| `%kcore_rank%`           | Rank của người chơi (LuckPerms)   |
+#| `%kcore_ping%`           | Ping người chơi (ms)              |
+#| `%kcore_money%`          | Tiền người chơi (Vault/Economy)   |
+#| `%kcore_exp%`            | Kinh nghiệm hiện tại              |
+#| `%kcore_levels%`         | Level hiện tại                    |
+#| `%kcore_kill%`           | Số lần giết của người chơi        |
+#| `%kcore_death%`          | Số lần chết                       |
+#| `%kcore_health%`         | Máu hiện tại (❤️)                 |
+#| `%kcore_food%`           | Thanh đói (thức ăn) hiện tại 🍗   |
+#| `%kcore_gamemode%`       | Chế độ chơi hiện tại              |
+#|  %kcore_playtime%        |   // Ví dụ: 1:25                  |
+#|  %kcore_world%           |   // Ví dụ: world                 |
+#|  %kcore_location_x%      |   // Ví dụ: 120.75                |
+#|  %kcore_location_y%      |   // Ví dụ: 64.0                  |
+#|  %kcore_location_z%      |   // Ví dụ: -45.25                |
+#|  %kcore_direction%       |   // Ví dụ: (1.0, 0.0, 0.0)       |
+#|  %kcore_pvp_score%       |     // Ví dụ: 5                   |
+#|  %kcore_quest_progress%  |    // Ví dụ: 5/10                 |
+#|  %kcore_quest_status%    |    // Ví dụ: Đang làm             |
+#|  %kcore_quest_reward%    |    // Ví dụ: 100 Coins            |
+#| ------------------------ | -------------------------------   |
